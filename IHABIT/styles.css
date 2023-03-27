@@ -1,0 +1,35 @@
+body {
+    background-color: #F1D3B3;
+}
+
+.links {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+  a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  a:link {
+    color: #2D2424;
+  }
+  
+  a:visited {
+    color: #2D2424;
+  }
+  
+  a:focus {
+    border-bottom: 1px solid;
+  }
+
+  .web a {
+    border-bottom: 1px solid;
+    font-family: 'Times New Roman', Times, serif;
+  }
